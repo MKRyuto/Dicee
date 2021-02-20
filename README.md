@@ -1,2 +1,2 @@
 # Dicee
-Simple dice game using website
+Test : https://mkryuto.github.io/Dicee/
